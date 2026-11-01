@@ -1,0 +1,29 @@
+{
+  "verification": "PASS",
+  "cases": [
+    {
+      "regeneration_enabled": false,
+      "scaled_ode_max_error": 1.0786613271920581E-6,
+      "distance_km": 1.1930992099192455,
+      "chemical_energy_kWh": 0.376195737506911,
+      "consumption_Wh_km": 315.30968621827662,
+      "estimated_range_km": 171.26020024204996,
+      "recovered_dc_energy_Wh": 0,
+      "friction_brake_energy_Wh": 131.50191493539049,
+      "battery_power_balance_error_W": 2.9103830456733704E-11
+    },
+    {
+      "regeneration_enabled": true,
+      "scaled_ode_max_error": 1.2429768589590218E-6,
+      "distance_km": 1.1930992091063428,
+      "chemical_energy_kWh": 0.26460935721809931,
+      "consumption_Wh_km": 221.78319723830634,
+      "estimated_range_km": 243.48102413717541,
+      "recovered_dc_energy_Wh": 114.57590486339123,
+      "friction_brake_energy_Wh": 2.6978615182282151,
+      "battery_power_balance_error_W": 2.9103830456733704E-11
+    }
+  ],
+  "stop_time_s": 64.64,
+  "regeneration_saving_percent": 29.661787464158508
+}

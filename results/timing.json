@@ -1,0 +1,14 @@
+{
+  "city_settled_s": 14.06,
+  "grade_start_s": 14.08,
+  "grade_settled_s": 26.32,
+  "fast_start_s": 26.34,
+  "fast_settled_s": 43.980000000000004,
+  "grade_end_s": 44.000000000000007,
+  "flat_settled_s": 56.3,
+  "braking_start_s": 56.32,
+  "final_settled_s": 64.6,
+  "stop_time_s": 64.64,
+  "tail_fraction": 0.1,
+  "criteria": "Speed, motor torque and driver force: 2% phase excursion; standstill floors 0.02 m/s, 0.05 Nm, 1 N"
+}
